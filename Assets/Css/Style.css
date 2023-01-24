@@ -1,0 +1,116 @@
+body{
+	overflow-x: hidden;
+}
+#nav1{
+	background: #de3163;
+}
+#search{
+	background: #ec5578;
+	color: white;
+}
+.navbar-nav{
+	margin-left: 25%;
+}
+i{
+	color: white;
+}
+#nav2{
+ background: #e75480;
+}
+.nav-link{
+	color: white;
+}
+.mybar{
+	background: none;
+	color: #e75480;
+}
+.navbar-brand{
+	color: white;
+}
+#collapse{
+	background: none; 
+	border:none;
+}
+#caro{
+	width: 100%;
+}
+#mycont1{
+	height: 10%;
+	background-color:#e75480; 	
+}
+.h3{
+	padding-top: 20%;
+	padding-bottom: 20%;
+	font-style: cursive;
+}
+.v1{
+	height: 150px;
+	width: 2px;
+	background-color: #fff;
+	margin-left: 20%;
+}
+.v2{
+	height: 150px;
+	width: 2px;
+	background-color: #fff;
+	margin-left: 20% !important;
+}
+.v3{
+	height: 150px;
+	width: 2px;
+	background-color: #fff;
+	margin-left: 20% !important;
+}
+.v4{
+	height: 150px;
+	width: 2px;
+	background-color: #fff;
+	margin-left: 20% !important;
+}
+.row{
+	width: 100%;
+}
+#myrow1{
+	background-color: 	#F8F8FF;
+}
+.col-sm-5{
+	margin: 2%;
+}
+.slider
+{
+ margin-left: 2% !important;
+ margin-right: 2% !important;
+ position: absolute;
+ }
+
+ .col-md-4card{
+  width: 18rem !important;
+  border:2px white;
+  z-index: 1;
+      }
+ #mycont2{
+   background-color:grey;
+  }
+  #cardA{
+  	margin: 2%;
+  	height: 20%;
+  	background-color: #fff;
+  }
+  #card-picture{
+  	height: 100px;
+  	width: 100px;
+  }
+  .photo{
+  	margin-left: 10%;
+  	background-color: #fff;
+    padding: 5px;
+    border: 2px;
+    border-color: #000;
+  }
+.picture{
+	height: 70vh;
+	width: 90vh;
+}
+#jmbo1{
+	background-color: #fff;
+}
